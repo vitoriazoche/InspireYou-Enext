@@ -33,7 +33,7 @@
     width: 100%;
     box-shadow: 0 1px 2px 0 rgba(0,0,0,0.5);
 }
-
+ /* Plan-one*/
 .plan-one .pricing-header {
     padding: 0;
     margin-bottom: 0;
@@ -101,6 +101,68 @@
     padding: 10px 0 30px 0;
 }
 
+/*plan-two*/
+
+.plan-two .pricing-header .plan-title {
+    -webkit-border-radius: 10px 10px 0px 0px;
+    -moz-border-radius: 10px 10px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
+    font-size: 1.2rem;
+    color: #ffffff;
+    padding: 10px 0;
+    font-weight: 600;
+    background: #bf5aee;
+    margin: 0;
+}
+
+.plan-two .pricing-header .plan-cost {
+    color: #ffffff;
+    background: #c171f0;
+    padding: 15px 0;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.plan-two .pricing-header .plan-save {
+    color: #ffffff;
+    background: #ca84f2;
+    padding: 10px 0;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.plan-two .plan-features {
+    border: 1px solid #cfcfcf;
+    border-top: 0;
+    border-bottom: 0;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.plan-two .plan-features li {
+    padding: 10px 15px 10px 40px;
+    margin: 5px 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    position: relative;
+    border-bottom: 1px solid #c4c4c4;
+    line-height: 100%;
+}
+
+.plan-two .plan-footer {
+    border: 1px solid #d8d8d8;
+    border-top: 0;
+    background: #ffffff;
+    -webkit-border-radius: 0 0 10px 10px;
+    -moz-border-radius: 0 0 10px 10px;
+    border-radius: 0 0 10px 10px;
+    text-align: center;
+    padding: 10px 0 30px 0;
+}
+
+
 @media (max-width: 767px) {
     .plan-one .pricing-header {
         text-align: center;
@@ -110,11 +172,18 @@
         float: none;
         margin-bottom: 20px;
     }
+    .plan-two .pricing-header {
+        text-align: center;
+    }
+    .plan-two .pricing-header i {
+        display: block;
+        float: none;
+        margin-bottom: 20px;
+    }
 }
 
 h4#titlePlans{
     font-size: 25px;
-    max-width: 65%;
     font-weight: bold;
 }
 
@@ -137,4 +206,10 @@ h4#titlePlans{
 .btnPurple-line:hover{
     background-color: white;
     color: blueviolet;
+}
+
+navbar{
+    display: flex;
+    justify-content: space-between;
+
 }
