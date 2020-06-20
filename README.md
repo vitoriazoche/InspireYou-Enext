@@ -1,3 +1,5 @@
+[Preview](https://enext-inpireme.netlify.app/)
+
 # InspireYou-Enext
 Landing Page para o teste de criação do estágio Enext
 
@@ -5,45 +7,4 @@ Landing Page para o teste de criação do estágio Enext
 
 Colocar algo que o inspira para que as pessoas comprem, assinem ou participarem.
 
-#### Especificações
-
-* Somente uma página para todo o conteúdo
-* Largura:1280
-* Versão Mobile, largura: 375
-* Composição
-* Tipografia
-* Alma
-* Linguagem
-* Coração
-* Estrutura
-* Interatividade
-
-### TEMPO:
-
-**VOCÊ TEM DOIS DIAS PARA REALIZAR A ENTREGA**
-
---------------------------------------
-
-1. O Conteúdo:
-    
-    *
-    *
-    *
-
-2. As imagens:
-
-    *
-    *
-    *
-
-3. A tipografia:
-
-    *
-    *
-    *
-
-4. A estrutura:
-
-    *
-    *
-    *
+<h3> Esta interface foi elaborada para o processo  seletivo de ux design na Enext de SP. Para tal foi desenvolvido uma marca e um protótipo (web e mobile) que propoe ao usuário que ele escute musicas e playlists de seus ilustradores e desenhistas favoritos.</h3>
